@@ -25,5 +25,5 @@ java DatabaseNode
 In a new terminal or command prompt window, navigate to the same folder and run the client:
 java DatabaseClient
 
-For more information how it works check DocumentationPL or DocumentationENG
+For more information how it works check DocumentationPL or DocumentationENG (not done yet)
 
